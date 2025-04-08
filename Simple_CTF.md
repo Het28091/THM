@@ -2,7 +2,7 @@
 
 **Report Title:** Simple CTF Room Analysis  
 **Platform:** TryHackMe  
-**Author:** Your Name  
+**Author:** Het Prajapati
 **Date:** April 8, 2025  
 
 ---
